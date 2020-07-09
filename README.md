@@ -1,2 +1,2 @@
 # computational-geomechanics
-Lecture notes for Computational Geomechanics at FZU
+Lecture notes and source code for Computational Geomechanics at FZU
